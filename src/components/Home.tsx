@@ -1,10 +1,10 @@
 import React from 'react';
 import "../assets/index.css";
-import Menubar from './Menubar';
+import LandingPage from './LandingPage';
 
 function Home() {
   return <div>
-      <Menubar/>
+      <LandingPage/>
   </div>;
 }
 

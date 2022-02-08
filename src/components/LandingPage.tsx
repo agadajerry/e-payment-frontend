@@ -8,7 +8,7 @@ import { useEffect, useState } from "react";
 
 library.add(fas);
 
-function Menubar() {
+function LandingPage() {
   
 
   const [toggle, setToggle] = useState(false);
@@ -276,4 +276,4 @@ function Menubar() {
   );
 }
 
-export default Menubar;
+export default LandingPage;
