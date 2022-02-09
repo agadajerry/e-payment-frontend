@@ -214,10 +214,11 @@ input[type=number], input[type = text], input[type = email]{
     width:100%;
     border-radius: 5px;
     font-size: 1.6rem;
-    border: 1px solid gray;
+    border: 2px solid gray;
+    
 }
 input[type=number]:focus, input[type = text]:focus{
-    border: solid 4px lightblue;
+    border: solid 2px lightblue;
 }
 
 input[type=submit]{

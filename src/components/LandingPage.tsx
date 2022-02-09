@@ -3,6 +3,9 @@ import "../assets/index.css";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { fas } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
+import "bootstrap-icons/font/bootstrap-icons.css";
+
 import Typed from "typed.js";
 import { useEffect, useState } from "react";
 
